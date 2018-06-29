@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13822" started-at="2018-06-28T09:12:23Z" finished-at="2018-06-28T09:12:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13822" started-at="2018-06-28T09:12:23Z" finished-at="2018-06-28T09:12:36Z">
+      <class name="com.qait.automation.MavenFirst.TestByClasses">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.qait.automation.MavenFirst.TestByClasses@6d4b1c02]" name="launchBrowser" is-config="true" duration-ms="5248" started-at="2018-06-28T09:12:23Z" finished-at="2018-06-28T09:12:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test1_attempt_Click_On_BasicCourse()[pri:1, instance:com.qait.automation.MavenFirst.TestByClasses@6d4b1c02]" name="test1_attempt_Click_On_BasicCourse" duration-ms="318" started-at="2018-06-28T09:12:28Z" finished-at="2018-06-28T09:12:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_attempt_Click_On_BasicCourse -->
+        <test-method status="PASS" signature="test2_attempt_Click_To_ChooseGreen()[pri:2, instance:com.qait.automation.MavenFirst.TestByClasses@6d4b1c02]" name="test2_attempt_Click_To_ChooseGreen" duration-ms="347" started-at="2018-06-28T09:12:28Z" finished-at="2018-06-28T09:12:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_attempt_Click_To_ChooseGreen -->
+        <test-method status="PASS" signature="test3_attempt_Unsuccessful__Color_Match_And_Proceed()[pri:3, instance:com.qait.automation.MavenFirst.TestByClasses@6d4b1c02]" name="test3_attempt_Unsuccessful__Color_Match_And_Proceed" duration-ms="838" started-at="2018-06-28T09:12:29Z" finished-at="2018-06-28T09:12:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3_attempt_Unsuccessful__Color_Match_And_Proceed -->
+        <test-method status="PASS" signature="test4_attempt_Successful__Color_Match_And_Proceed()[pri:4, instance:com.qait.automation.MavenFirst.TestByClasses@6d4b1c02]" name="test4_attempt_Successful__Color_Match_And_Proceed" duration-ms="672" started-at="2018-06-28T09:12:29Z" finished-at="2018-06-28T09:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4_attempt_Successful__Color_Match_And_Proceed -->
+        <test-method status="PASS" signature="test6_attempt_Successful_Drag_Will_Goto_Nextpage()[pri:6, instance:com.qait.automation.MavenFirst.TestByClasses@6d4b1c02]" name="test6_attempt_Successful_Drag_Will_Goto_Nextpage" duration-ms="243" started-at="2018-06-28T09:12:30Z" finished-at="2018-06-28T09:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6_attempt_Successful_Drag_Will_Goto_Nextpage -->
+        <test-method status="PASS" signature="test7_attempt_Proceed_No_Text()[pri:7, instance:com.qait.automation.MavenFirst.TestByClasses@6d4b1c02]" name="test7_attempt_Proceed_No_Text" duration-ms="1379" started-at="2018-06-28T09:12:30Z" finished-at="2018-06-28T09:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7_attempt_Proceed_No_Text -->
+        <test-method status="PASS" signature="test7_attempt_Proceed_Some_Text()[pri:8, instance:com.qait.automation.MavenFirst.TestByClasses@6d4b1c02]" name="test7_attempt_Proceed_Some_Text" duration-ms="1422" started-at="2018-06-28T09:12:32Z" finished-at="2018-06-28T09:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7_attempt_Proceed_Some_Text -->
+        <test-method status="PASS" signature="test8_attempt_Click_After_Notadding_Cookie()[pri:9, instance:com.qait.automation.MavenFirst.TestByClasses@6d4b1c02]" name="test8_attempt_Click_After_Notadding_Cookie" duration-ms="275" started-at="2018-06-28T09:12:33Z" finished-at="2018-06-28T09:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8_attempt_Click_After_Notadding_Cookie -->
+        <test-method status="PASS" signature="test8_attempt_Click_After_Adding_Cookie()[pri:10, instance:com.qait.automation.MavenFirst.TestByClasses@6d4b1c02]" name="test8_attempt_Click_After_Adding_Cookie" duration-ms="414" started-at="2018-06-28T09:12:33Z" finished-at="2018-06-28T09:12:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8_attempt_Click_After_Adding_Cookie -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qait.automation.MavenFirst.TestByClasses@6d4b1c02]" name="closeBrowser" is-config="true" duration-ms="2634" started-at="2018-06-28T09:12:34Z" finished-at="2018-06-28T09:12:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qait.automation.MavenFirst.TestByClasses -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
